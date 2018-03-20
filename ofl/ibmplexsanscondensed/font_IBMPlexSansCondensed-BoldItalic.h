@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_IBMPlexSansCondensed-BoldItalic_
+#define _ILI9341_t3_font_IBMPlexSansCondensed-BoldItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_8_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_9_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_10_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_11_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_12_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_13_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_14_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_16_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_18_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_20_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_24_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_28_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_32_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_40_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_48_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_60_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_72_Bold_Italic;
+extern const ILI9341_t3_font_t IBMPlexSansCondensed_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

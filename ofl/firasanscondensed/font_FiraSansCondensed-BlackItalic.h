@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_FiraSansCondensed-BlackItalic_
+#define _ILI9341_t3_font_FiraSansCondensed-BlackItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_8_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_9_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_10_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_11_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_12_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_13_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_14_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_16_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_18_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_20_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_24_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_28_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_32_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_40_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_48_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_60_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_72_Italic;
+extern const ILI9341_t3_font_t FiraSansCondensedBlack_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

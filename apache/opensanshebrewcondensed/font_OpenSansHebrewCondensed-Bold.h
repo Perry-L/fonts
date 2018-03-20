@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_OpenSansHebrewCondensed-Bold_
+#define _ILI9341_t3_font_OpenSansHebrewCondensed-Bold_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_8_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_9_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_10_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_11_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_12_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_13_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_14_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_16_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_18_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_20_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_24_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_28_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_32_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_40_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_48_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_60_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_72_Bold;
+extern const ILI9341_t3_font_t OpenSansHebrewCondensed_96_Bold;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

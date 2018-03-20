@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_OpenSansCondensed-LightItalic_
+#define _ILI9341_t3_font_OpenSansCondensed-LightItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t OpenSansCondensedLight_8_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_9_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_10_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_11_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_12_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_13_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_14_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_16_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_18_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_20_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_24_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_28_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_32_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_40_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_48_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_60_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_72_Italic;
+extern const ILI9341_t3_font_t OpenSansCondensedLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

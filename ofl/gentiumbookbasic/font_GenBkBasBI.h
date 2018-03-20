@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_GenBkBasBI_
+#define _ILI9341_t3_font_GenBkBasBI_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t GentiumBookBasic_8_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_9_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_10_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_11_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_12_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_13_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_14_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_16_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_18_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_20_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_24_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_28_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_32_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_40_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_48_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_60_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_72_Bold_Italic;
+extern const ILI9341_t3_font_t GentiumBookBasic_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

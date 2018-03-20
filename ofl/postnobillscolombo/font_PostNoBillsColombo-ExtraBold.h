@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_PostNoBillsColombo-ExtraBold_
+#define _ILI9341_t3_font_PostNoBillsColombo-ExtraBold_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_8;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_9;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_10;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_11;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_12;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_13;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_14;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_16;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_18;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_20;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_24;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_28;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_32;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_40;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_48;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_60;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_72;
+extern const ILI9341_t3_font_t PostNoBillsColomboExtraBold_96;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_PlayfairDisplaySC-BlackItalic_
+#define _ILI9341_t3_font_PlayfairDisplaySC-BlackItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_8_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_9_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_10_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_11_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_12_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_13_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_14_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_16_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_18_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_20_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_24_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_28_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_32_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_40_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_48_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_60_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_72_Italic;
+extern const ILI9341_t3_font_t PlayfairDisplaySCBlack_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_MerriweatherSans-BoldItalic_
+#define _ILI9341_t3_font_MerriweatherSans-BoldItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t MerriweatherSans_8_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_9_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_10_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_11_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_12_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_13_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_14_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_16_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_18_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_20_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_24_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_28_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_32_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_40_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_48_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_60_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_72_Bold_Italic;
+extern const ILI9341_t3_font_t MerriweatherSans_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

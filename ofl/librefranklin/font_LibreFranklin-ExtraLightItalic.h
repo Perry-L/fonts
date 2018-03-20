@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_LibreFranklin-ExtraLightItalic_
+#define _ILI9341_t3_font_LibreFranklin-ExtraLightItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_8_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_9_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_10_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_11_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_12_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_13_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_14_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_16_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_18_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_20_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_24_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_28_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_32_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_40_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_48_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_60_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_72_Italic;
+extern const ILI9341_t3_font_t LibreFranklinExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_IBMPlexMono-ExtraLightItalic_
+#define _ILI9341_t3_font_IBMPlexMono-ExtraLightItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_8_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_9_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_10_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_11_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_12_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_13_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_14_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_16_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_18_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_20_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_24_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_28_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_32_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_40_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_48_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_60_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_72_Italic;
+extern const ILI9341_t3_font_t IBMPlexMonoExtraLight_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

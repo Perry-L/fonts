@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_LibreFranklin-SemiBoldItalic_
+#define _ILI9341_t3_font_LibreFranklin-SemiBoldItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_8_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_9_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_10_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_11_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_12_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_13_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_14_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_16_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_18_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_20_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_24_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_28_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_32_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_40_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_48_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_60_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_72_Italic;
+extern const ILI9341_t3_font_t LibreFranklinSemiBold_96_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif
